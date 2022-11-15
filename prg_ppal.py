@@ -8,15 +8,26 @@
         return sommeImpair'''
 
 
-
-
-
-def fonction_somme (i):
+'''def fonction_somme(list) :
     for i in list :
-        i = list(i) + i
-    
+        i=j
+        i = i + j'''
+
+
+
+
 
 
 list = [10,20,30,40,50]
-fonction_somme(i)
+for i in list :
+    print(i)
+    j=sum(list)
+print(j)
+
+
+    
+
+
+
+
 
